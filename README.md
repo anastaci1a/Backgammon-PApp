@@ -1,8 +1,8 @@
-# **Backgammon 2**!
+# **Backgammon**!
 
 ### Once a board game, now a *screen* game!
 
-> This is my *second* attempt at creating [Backgammon](https://en.wikipedia.org/wiki/Backgammon) in [Processing](https://processing.org/).
+> This is my attempt at creating [Backgammon](https://en.wikipedia.org/wiki/Backgammon) in [Processing](https://processing.org/), to be exported as an Android application.
 
 ![demo](demo.gif)
 
