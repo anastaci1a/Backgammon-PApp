@@ -2,7 +2,7 @@
 
 ### Once a board game, now a *screen* game!
 
-> This is my attempt at creating [Backgammon](https://en.wikipedia.org/wiki/Backgammon) in [Processing](https://processing.org/), to be exported as an Android application.
+> This is my attempt at creating [Backgammon](https://en.wikipedia.org/wiki/Backgammon) in [Processing](https://processing.org/), for use as an Android application.
 
 ![demo](demo.gif)
 
@@ -26,13 +26,13 @@
 
 0. **[Install APDE from the official repo](https://github.com/Calsign/APDE)**
 
-1. Copy the inner `backgammon-2` folder into APDE's `Sketchbook` folder (typically `./Sketchbook`)
+1. Copy the inner `backgammon` folder into APDE's `Sketchbook` folder (typically `./Sketchbook`)
 
 2. Delete the inner `sketch.properies` file, and rename `APDE_sketch.properties` to `sketch.properties`. **\[IMPORTANT\]**
 
 3. Comment/uncomment the indicated lines in `Ab_Main.pde` and `Util.pde` **\[IMPORTANT x2\]**
 
-4. Open `APDE`, open `Sketches/backgammon-2`, tap the export setting button (`<>`) and select `App`
+4. Open `APDE`, open `Sketches/backgammon`, tap the export setting button (`<>`) and select `App`
 
 5. Tap the run button (`▶`) to compile, then install when prompted
 
